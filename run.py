@@ -1,0 +1,3 @@
+from body import *
+
+run()
